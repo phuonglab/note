@@ -1,1 +1,19 @@
 # notevxvv
+Store all unity link:
+##################################### 
+########English######################
+#####################################
+
+
+
+2>Embedded news:
+http://www.eetimes.com/author.asp?section_id=31&doc_id=1326447
+http://www.embedded.com/education-training/source-codes
+Những ca khúc nhạc vàng bất hủ với thời gian tê tái lòng người lính VNCH
+https://www.youtube.com/watch?v=Qpnlklleevk
+
+
+
+
+
+
