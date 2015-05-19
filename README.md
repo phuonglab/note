@@ -14,6 +14,8 @@ https://www.youtube.com/watch?v=Qpnlklleevk
 
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
-
+QT += widgets" to .pro
+CONFIG += qt
+https://forum.qt.io/topic/22596/from-qt4-to-qt5-include-files-not-found
 
 
