@@ -13,7 +13,7 @@ Những ca khúc nhạc vàng bất hủ với thời gian tê tái lòng ngư�
 https://www.youtube.com/watch?v=Qpnlklleevk
 
 
-
+greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
 
 
