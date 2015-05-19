@@ -19,3 +19,4 @@ CONFIG += qt
 https://forum.qt.io/topic/22596/from-qt4-to-qt5-include-files-not-found
 
 https://devdays.kdab.com/wp-content/uploads/2012/adenilson_cavalcanti_devdays12_part2.pdf
+https://www.daniweb.com/software-development/c/threads/285233/make-sscanf-skip-whitespace-characters
